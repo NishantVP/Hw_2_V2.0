@@ -18,6 +18,10 @@ import android.widget.ListView;
  * This comment should reflect in GitHub
  */
 
+/*
+* This is Third commit
+* */
+
 public class ListActivity extends ActionBarActivity {
 
     private String[] animalNames;
