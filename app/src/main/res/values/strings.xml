@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hw 2 V2.0</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EnterZooButton">Enter</string>
+    <string name="EnterZooInfoButton">Information</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="ZooStartImage">Zoo Start Image</string>
+    <string name="title_activity_zoo_infor">ZooInforActivity</string>
+    <string name="title_activity_zoo_info">ZooInfoActivity</string>
+    <string name="zooTitle">The Zoo </string>
+    <string name="title_activity_description">DescriptionActivity</string>
+
+</resources>
